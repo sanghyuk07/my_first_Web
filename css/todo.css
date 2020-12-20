@@ -1,0 +1,35 @@
+.js-form_ToDo_form {
+  border: none;
+  padding: 10px 15px;
+  margin-bottom: 25px;
+  font-size: 25px;
+  color: black;
+  /* border-radius: 20px; */
+
+  border-bottom: 2px solid white;
+  /* background-color: blanchedalmond; */
+  background: none;
+  appearance: none;
+}
+
+.js-form_ToDo_form ::placeholder {
+  font-size: 10px;
+}
+
+.toDo {
+  margin-bottom: 13px;
+}
+.toDo span {
+  font-size: 15px;
+  padding: 5px 10px;
+  background-color: whitesmoke;
+  color: black;
+
+  border-radius: 10px;
+}
+
+button {
+  border-radius: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}

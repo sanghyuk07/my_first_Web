@@ -1,0 +1,22 @@
+.js-form_name_form {
+  font-size: 25px;
+  border: none;
+  padding: 10px 15px;
+  margin-bottom: 30px;
+  /* border-bottom: 1px solid rgba(0, 0, 0, 0.2); */
+  border-radius: 20px;
+  background-color: wheat;
+  /* width: 100%; */
+}
+
+/* 보여졌을 떄 */
+.js-greetings.grettings.showing {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.js-form_name_form ::placeholder {
+  color: black;
+}

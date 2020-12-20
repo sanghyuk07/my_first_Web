@@ -1,0 +1,12 @@
+.js-weater-form {
+  display: flex;
+  position: absolute;
+  font-size: 15px;
+  top: 25px;
+  right: 25px;
+  color: dimgray;
+
+  /* /* top: 0; */
+  /* right: 20; */
+  /* width: 100%; */
+}

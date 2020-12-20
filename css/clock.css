@@ -1,0 +1,7 @@
+.js-clock {
+  display: flex;
+}
+.js-clock_text {
+  font-size: 100px;
+  margin-bottom: 30px;
+}
